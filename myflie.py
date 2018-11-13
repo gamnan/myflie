@@ -11,8 +11,8 @@ messenger = firebase.FirebaseApplication(url)
 #engineer2 = {'id' :1002,'news':'Lung Tu'}
 #engineer3 = {'id' :1003,'name':'Thairath','day':71118,'Time':13.55,'news':'thairath'}
 #engineer3 = {'id' :1003,'name':'Thairath','day':71118,'Time':13.55,'news':'thairath'}
-engineer4 = {'name':'dailynews','day':91118,'Time':'12:45','news':'dailynews'}
-engineer5 = {'name':'Thainews','day':101118,'Time':'06.45','news':'none'}
+# engineer4 = {'name':'dailynews','day':91118,'Time':'12:45','news':'dailynews'}
+# engineer5 = {'name':'Thainews','day':101118,'Time':'06.45','news':'none'}
 
 
 #
